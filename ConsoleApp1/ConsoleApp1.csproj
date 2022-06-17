@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>
+		ConsoleApp1.AbstractDemo.Abstract
+
+	</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="looping\NewFolder\" />
+  </ItemGroup>
+
+
+</Project>
